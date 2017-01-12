@@ -37,9 +37,9 @@ dependencies {
 }
 
 
+version = "${library_version}"
+group = "${library_group_id}"
 install {
-    version = "${library_version}"
-    group = "${library_group_id}"
     repositories.mavenInstaller {
         pom {
             project {
