@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">retrofit-rxjava-okhttp</string>
+    <string name="text_actor_name">主演：%s</string>
+</resources>
