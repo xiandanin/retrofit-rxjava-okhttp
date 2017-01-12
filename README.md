@@ -1,6 +1,7 @@
 # retrofit-rxjava-okhttp
-Retrofit-RxJava-OkHttp二次封装
-
+Retrofit-RxJava-OkHttp二次封装<br/>
+正在逐渐完善，有问题和建议也可以在issues提出
+<br/>
 ###Screenshot
 ![Example1](/screenshot.gif)
 <br/>
