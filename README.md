@@ -10,6 +10,17 @@ Retrofit-RxJava-OkHttp二次封装<br/>
 ```java
 compile 'com.dyhdyh.rro:retrofit-rxjava-okhttp:1.0.0-Preview'
 ```
+###需要的依赖
+```java
+compile 'com.squareup.okhttp3:okhttp:3.5.0'
+compile 'com.squareup.retrofit2:retrofit:2.1.0'
+compile 'com.squareup.retrofit2:adapter-rxjava:2.1.0'
+compile 'com.squareup.retrofit2:converter-gson:2.1.0'
+compile 'com.squareup.retrofit2:converter-scalars:2.1.0'
+compile 'io.reactivex:rxandroid:1.2.1'
+compile 'com.google.code.gson:gson:2.8.0'
+compile 'com.squareup.okhttp3:logging-interceptor:3.5.0'
+ ```
 <br/>
 
 ####Example
