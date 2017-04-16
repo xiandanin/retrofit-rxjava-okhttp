@@ -1,10 +1,9 @@
 # retrofit-rxjava-okhttp
-Retrofit-RxJava-OkHttp二次封装<br/>
+Retrofit-RxJava-OkHttp二次封装
 正在逐渐完善，有问题和建议也可以在issues提出
-<br/>
+
 ### Screenshot
 ![Example1](/screenshot.gif)
-<br/>
 
 ### Android Studio - 在build.gradle中引入
 ```java
@@ -21,7 +20,6 @@ compile 'io.reactivex:rxandroid:1.2.1'
 compile 'com.google.code.gson:gson:2.8.0'
 compile 'com.squareup.okhttp3:logging-interceptor:3.5.0'
  ```
-<br/>
 
 #### Example
 初始化配置
@@ -50,7 +48,6 @@ public class DemoApplication extends Application{
 }
 ```
 
-<br/>
 ##### 请求的两种用法
 ```
     /**
