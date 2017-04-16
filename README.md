@@ -2,15 +2,15 @@
 Retrofit-RxJava-OkHttp二次封装<br/>
 正在逐渐完善，有问题和建议也可以在issues提出
 <br/>
-###Screenshot
+### Screenshot
 ![Example1](/screenshot.gif)
 <br/>
 
-###Android Studio - 在build.gradle中引入
+### Android Studio - 在build.gradle中引入
 ```java
 compile 'com.dyhdyh.rro:retrofit-rxjava-okhttp:1.0.0-Preview'
 ```
-###需要的依赖
+### 需要的依赖
 ```java
 compile 'com.squareup.okhttp3:okhttp:3.5.0'
 compile 'com.squareup.retrofit2:retrofit:2.1.0'
@@ -23,7 +23,7 @@ compile 'com.squareup.okhttp3:logging-interceptor:3.5.0'
  ```
 <br/>
 
-####Example
+#### Example
 初始化配置
 ```java
 //初始化配置
@@ -121,5 +121,5 @@ public class DemoApplication extends Application{
 ```
 
 
-######Android交流QQ群:146262062
-######http://dyhdyh.com/
+###### Android交流QQ群:146262062
+###### http://dyhdyh.com/
