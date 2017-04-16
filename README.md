@@ -25,7 +25,7 @@ compile 'com.squareup.okhttp3:logging-interceptor:3.5.0'
 
 #### Example
 初始化配置
-```java
+```
 //初始化配置
 public class DemoApplication extends Application{
 
@@ -52,7 +52,7 @@ public class DemoApplication extends Application{
 
 <br/>
 ##### 请求的两种用法
-```java
+```
     /**
      * lambda写法
      */
