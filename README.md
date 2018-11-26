@@ -116,7 +116,3 @@ public class DemoApplication extends Application{
                 });
     }
 ```
-
-
-###### Android交流QQ群:146262062
-###### http://dyhdyh.com/
